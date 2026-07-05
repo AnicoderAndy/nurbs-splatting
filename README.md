@@ -1,4 +1,5 @@
 # NURBS Splatting
+![NURBS Splatting](imgs/teaser.png)
 
 We introduce NURBS Splatting, a differentiable rendering framework that represents planar rational splines as Gaussian fields, enabling stable optimization and unified support for rendering, filling, and vector graphics applications. [[paper](https://arxiv.org/abs/2606.31764)]
 
