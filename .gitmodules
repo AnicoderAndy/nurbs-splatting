@@ -1,0 +1,6 @@
+[submodule "external/gsplat"]
+	path = external/gsplat
+	url = https://github.com/XingtongGe/gsplat.git
+[submodule "external/SLDVec"]
+	path = external/SLDVec
+	url = https://github.com/tanguymagne/SLD-Vectorization.git
